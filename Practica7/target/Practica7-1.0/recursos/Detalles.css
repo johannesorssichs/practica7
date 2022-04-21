@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h4{
+    display: inline;
+}
+
+.arriba{
+    margin-right:20%;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+
+.titulos{
+    text-align: center;
+    margin-right: 440px;
+}
+
+.bloque{
+    padding-top: 10px;
+    margin-left: 5%;
+    margin-bottom: 40px;
+}
+
+.dato{
+    margin-top: 10px;
+    height: 10px;
+    width: 300px;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.pulse{
+    display: inline-block;
+    padding-left: 14px;
+}
+
+.boton{
+    display: inline-block;
+    margin-right: 23px;
+}
